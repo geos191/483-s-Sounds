@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+/*----------------------- CABEZERA ----------------------------*/
+
+nav {
+
+    justify-content: space-between;
+
+}
+
+.nav-bar {
+    background: #2B2D42;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    
+}
+
+.nav-bar a {
+
+    color: #EDF2F4;
+    text-decoration: none;
+    margin: 0px 4px;
+
+}
+
+section {
+    width: 100%;
+    height: auto;
+}
+
+section .container.banner-container {
+    background: #8D99AE;
+    width: 100%;
+    height: auto;
+
+}
+
+section .container .banner {
+
+    margin: auto;
+    width: 80%;
+    height: auto;
+}
+
+section .container .banner .img-banner {
+    
+    width: 100%;
+    height: 450px;
+    padding: 30px 0px;
+}
+
+/*----------------------- NOSOTROS ----------------------------*/
+
+.nosotros {
+
+    width: 100%;
+    height: auto;
+
+}
+
+.nosotros .container {
+
+    background: #EDF2F4;
+    width: 100%;
+    height: auto;
+    display: flex;
+
+}
+
+.nosotros-img-container {
+
+    margin-left: 50px ;
+    width: 38%;
+    height: auto;
+
+}
+
+.nosotros-img-container .container-img {
+
+    width: 100%;
+    height: 380px;
+    padding: 30px 0px;
+    
+
+}
+
+.nosotros .container .texto-nosotros-container {
+
+    width: 62%;
+    height: auto;
+}
+
+.texto-nosotros-container .texto-nosotros {
+    
+    
+    padding: 30px 0px;
+    margin: auto;
+    width: 100%;
+    height: auto;
+    text-align: center;
+
+}
+
+.texto-nosotros h3 {
+    
+    margin: auto;
+    display: inline-block;
+
+}
